@@ -3,7 +3,7 @@
 
 /**
  * Plugin Name: Catalog Visibility Filter for WooCommerce
- * Plugin URI:  https://github.com/YOUR-GITHUB-USERNAME/woo-catalog-visibility-admin-filter
+ * Plugin URI:  https://github.com/frankremmy/woo-catalog-visibility-admin-filter
  * Description: Adds a Catalog visibility filter to the WooCommerce Products admin list, including a Hidden products option.
  * Version:     1.0.0
  * Author:      Frank Remmy
